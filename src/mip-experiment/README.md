@@ -360,7 +360,7 @@ body[mip-x-button-color=grey] #btn01 {
                 },
                 "baidu-stats": [
                     ["window", "load"],
-                    ["#btn01", "click"，"2.23"]
+                    ["#btn01", "click", "2.23"]
                 ]
             }
         }
